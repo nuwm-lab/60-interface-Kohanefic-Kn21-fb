@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Text;
-
+//
 abstract class FractionalFunction
 {
     public FractionalFunction()
