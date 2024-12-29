@@ -117,5 +117,6 @@ class Program
         quadraticFunc.DisplayCoefficients();
         double resultQuadratic = quadraticFunc.Calculate(4);
         Console.WriteLine($"Значення дробової квадратичної функції в точці x = 4: {resultQuadratic}");
+
     }
 }
